@@ -1,10 +1,20 @@
-# 📱 React Native Login App with Expo Router
+#  React Native Login App with Expo Router
+
+###  Login Screen
+![Login Screen](assets/images/login.png)
+
+###  Get Started Screen
+![Get Started Screen](assets/images/getstarted.png)
+
+###  Demo
+![Demo Video](assets/videos/demo.mp4)
+
 
 A simple login flow built using **React Native**, **Expo Router**, and **TypeScript**. This app includes a splash screen, "Get Started" screen, login form with email/password validation, and basic routing.
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - React Native via [Expo](https://expo.dev)
 - [Expo Router](https://expo.github.io/router)
